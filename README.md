@@ -84,7 +84,9 @@ Apache Subversion (SVN) – Centralized version control system used in enterpris
 Mercurial – Another distributed VCS, similar to Git but designed for simplicity.  
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Bugging challenges: Software engineerers can systematically overcome bugging challenge by using bugging tools on their IDE, such as breakpoint on VS code, understand and breakdown error message, check for common errors and re-run their code frequently.
+Lack of self-confidence: SE should develop confidence in their skills and be open to learn from their mistakes.
+Keeping up with fast changing technologies: SE should be adaptable to changes in new technologies, it part of learning process.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
