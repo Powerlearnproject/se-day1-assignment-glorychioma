@@ -144,3 +144,7 @@ Improves efficiency – Saves time by reducing back-and-forth clarifications.
 Customizes responses – Allows users to control AI behavior for specific tasks to get personalized answers.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt: Mention the largest city in kilometers.
+Improved prompt: Mention the largest city in Nigeria, in terms of land area covered in Kilometers squared according to the google map. 
+
+The improved prompt is more effective because the request is clear, well-specified withiout any extra or irrelevant backgorund content. Unlike like the vague prompt that is not specific to which area the model should generate the largest city from. It makes the prompt unclear.
