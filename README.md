@@ -135,6 +135,12 @@ Example: A client testing a *new HR management system* before company-wide deplo
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is act of crafting statements, request or asks to communicate with an AI model.
 
+Importance
+Enhances AI performance – Well-structured prompts produce more precise and useful results.
+Reduces ambiguity – Helps AI understand the context better.
+Improves efficiency – Saves time by reducing back-and-forth clarifications.
+Customizes responses – Allows users to control AI behavior for specific tasks to get personalized answers.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
