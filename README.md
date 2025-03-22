@@ -29,7 +29,21 @@ List and briefly explain the phases of the Software Development Life Cycle.
 5. Software product: The design format will be implemented as a software product.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall: A linear, sequential approach where each phase (requirements, design, implementation, testing, deployment, and maintenance) must be completed before moving to the next.
+Agile: An iterative and flexible approach where work is done in short cycles (sprints), allowing continuous feedback and adaptation.
 
+When to Use Waterfall
+Large, Well-Defined Projects
+Example: Building a Bridge or a Hospital
+Reason: The requirements are clear, and changes are costly once construction starts.
+
+Regulated Industries
+Example: Pharmaceutical Drug Development
+Reason: Regulatory approval processes require strict documentation and adherence to sequential processes.
+
+Software with Fixed Requirements
+Example: Banking Software Compliance Systems
+Reason: Compliance-driven systems require detailed documentation and minimal changes.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
