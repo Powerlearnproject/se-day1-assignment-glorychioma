@@ -47,6 +47,9 @@ Reason: Compliance-driven systems require detailed documentation and minimal cha
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+1. Software developer: This is a person whose expertise is to build or develop the project using software tools
+2. Quality assurance engineer: This is the person in charge of the overall quality of the team's project work, ensuring it is of high quality and meets standards.
+3. Project manager: This person is in charge of the team's project, deciding on the project the team's going to building.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
