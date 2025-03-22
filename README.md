@@ -23,7 +23,10 @@ Identify and describe at least three key milestones in the evolution of software
    - This shift transformed software engineering by improving adaptability to changing requirements and fostering continuous improvement.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. User's needs and expectations: This refers to a user's want or need about a software product.
+2. Problem statement: The problem based on the user's want or need is analysed and developed.
+4. Detailed design: The developed problem statement is designed.
+5. Software product: The design format will be implemented as a software product.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
