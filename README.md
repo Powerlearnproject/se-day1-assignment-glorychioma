@@ -9,7 +9,18 @@ Software engineering is the establishment and use of sound engineering principle
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1. The Birth of Software Engineering (1968)
+   - The term software engineering was first used during the NATO Software Engineering Conference in 1968. This was in response to the "software crisis," where software projects were often over budget, late, and unreliable.
+   - This milestone marked the beginning of structured software development practices, emphasizing systematic approaches to design, development, and maintenance.
 
+2. The Rise of Object-Oriented Programming (1970s-1980s)
+   - Object-Oriented Programming (OOP) emerged, with languages like Smalltalk (1972) and later C++ (1983), promoting encapsulation, inheritance, and modular design.
+   - OOP made software more reusable, scalable, and maintainable, influencing modern development frameworks.
+
+3. The Agile Revolution (2001)
+   - In response to the limitations of heavyweight, document-driven methodologies like Waterfall, the Agile Manifesto was introduced in 2001.
+   - Agile methodologies (e.g., Scrum, Kanban) focus on iterative development, flexibility, customer collaboration, and rapid delivery.
+   - This shift transformed software engineering by improving adaptability to changing requirements and fostering continuous improvement.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
