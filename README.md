@@ -90,6 +90,46 @@ Keeping up with fast changing technologies: SE should be adaptable to changes in
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+1. Unit Testing 
+Definition:  
+- Tests individual components (e.g., functions, classes, or modules).  
+- Usually written by developers using testing frameworks like JUnit (Java), PyTest (Python), or Jest (JavaScript).  
+
+Importance:  
+- Detects bugs early, reducing overall debugging time.  
+- Ensures that each part of the software functions correctly in isolation.  
+- Improves code maintainability and refactoring confidence.  
+
+
+2. Integration Testing 
+- Tests how different modules or components interact with each other.  
+- Ensures that integrated components work together as expected.  
+
+Importance:
+- Identifies issues in data flow and API communication.  
+- Ensures proper interaction between modules, databases, and external systems.  
+- Prevents failures due to incompatible components.  
+  Example: Testing the connection between a frontend login page and a backend authentication system.  
+
+3. System Testing
+   - Tests the entire application as a whole after all components are integrated.  
+   - Conducted in an environment similar to production.  
+
+Importance:  
+- Ensures the software meets business and functional requirements.  
+- Helps find issues related to performance, security, and scalability.  
+- Simulates real-world usage to uncover unexpected behavior.  
+  Example: Running the entire e-commerce platform to check if cart, payment, and order processing work together.  
+
+4. Acceptance Testing 
+- The final stage before deployment, where end-users or clients validate the software.
+
+Importance:  
+- Confirms that the software meets customer needs.  
+- Detects usability issues before release.  
+- Determines whether the software is ready for production.  
+Example: A client testing a *new HR management system* before company-wide deployment.  
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
